@@ -1,0 +1,18 @@
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+select {
+  font-size: 18px;
+  width: 12em;
+}
+
+thead {
+  background-color: teal;
+  color: #fff;
+}
+
+th {
+  text-align: left;
+}
+
